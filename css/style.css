@@ -25,6 +25,7 @@ h1,h2,h3 {
 .header-link {
     display: flex;
     justify-content: space-between;
+    color:#5F4977;
 }
 .header a {
     text-decoration: none;
